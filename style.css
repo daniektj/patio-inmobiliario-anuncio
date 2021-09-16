@@ -17,7 +17,6 @@ body{
     background-color: var(--color-lightgray);
     font-family: 'Roboto', sans-serif;
     color: var(--color-black);
-    overflow: hidden;
 }
 
 a{color: var(--color-pink);}
